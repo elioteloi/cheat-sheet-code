@@ -1,0 +1,85 @@
+GIT: 
+
+git clone url
+git add .
+git commit -m
+git push
+
+git pull
+_________________________________________________
+
+REACT:
+
+yarn create react-app my-app
+cd mon-app
+yarn start
+
+REACT SNIPPETS:
+
+rafce create a const component
+__________________________________________________
+
+REACT-NATIVE:
+
+npx react-native init AwesomeProject
+
+npx react-native run-android
+
+START METRO:
+
+npx react-native start
+
+___________________________________________________
+
+CMD:
+
+mkdir // create a file
+
+cls // clean screen
+
+dir //show file
+
+cd .. //go back
+
+File Explorer - explorer
+Calculator - calc
+Notepad - notepad
+Character Map - charmap
+Paint - mspaint
+Command Prompt (new window) - cmd
+Windows Media Player - wmplayer
+Task Manager - taskmgr
+
+__________________________________________________
+
+YARN:
+
+yarn install
+yarn start
+yarn android
+
+Adding a dependency:
+yarn add [package]
+__
+
+NPM:
+
+npm init
+npm start
+npm run start
+
+Adding a dependency:
+npm install [package]
+___________________________________________________
+
+NODEMON:
+
+npm i nodemon
+
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+
+node app.js / nodemon app.js
+
